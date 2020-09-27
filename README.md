@@ -8,8 +8,8 @@ The Technologies that I have Used Are  Python,Matplotlib, Machine Learning,Herok
 
 The Basic Data Science Project Life Cycle include :
   1. Gathering Data
-  2. Understanding The Dataset
-  2. Feature Engineering
+  2. Understanding The Dataset ( EDA )
+  2. Feature Engineering ( Data Cleaning )
   3. Feature Scaling ( depend Upon The ML Algo. that We Use and the Type Of data That We have )
   4. Feature Selection
   5. Model Creation 
